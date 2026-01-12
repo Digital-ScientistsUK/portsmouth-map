@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10 mile radius from Portsmouth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0880, 50.8198]
+      }
+    }
+  ]
+}
